@@ -42,49 +42,7 @@ The website consist of 7 pages total, including:
     * The data must come from exporting the `.csv` file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
 
 
-### Screenshots
 
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
-
-#### <a id="landing-page"></a>Landing page
-
-Large screen:
-
-![Landing page large screen](Images/landingResize.png)
-
-Small screen:
-
-![Landing page small screen](Images/landing-sm.png)
-￼
-
-#### <a id="comparisons-page"></a>Comparisons page
-
-Large screen:
-
-![comparison page large screen](Images/comparison-lg.png)
-
-Small screen:
-
-![comparison page small screen](Images/comparison-sm.png)
-
-#### <a id="data-page"></a>Data page
-
-Large screen:
-
-![data page large screen](Images/data-lg.png)
-
-
-Small screen:
-
-![data page small screen](Images/data-sm.png)
-
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
-
-Large screen:
-
-![visualize page large screen](Images/visualize-lg.png)
 
 Small screen:
 
